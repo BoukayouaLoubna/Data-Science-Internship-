@@ -201,5 +201,7 @@ Now your Flask web application should be live and accessible at http://<my-insta
 
 My deployment link : http://ec2-13-60-3-130.eu-north-1.compute.amazonaws.com:5000  (this link is available temporary cause of AWS cost )
 
+![Uploading Screenshot 2024-09-25 181543.png…]()
+
 ### conclusion : 
 Finally, users can interact with the web app interface by inputting their own feature values to make predictions. By providing the relevant loan attributes through the app, users can receive real-time predictions on whether a loan will become delinquent (via the GBM model) and the expected prepayment rate (via the Lasso regression model). This makes the app accessible for end-users to explore predictions interactively.
