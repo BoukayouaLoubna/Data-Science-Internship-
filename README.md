@@ -207,3 +207,12 @@ My deployment link : http://ec2-13-60-3-130.eu-north-1.compute.amazonaws.com:500
 
 ### conclusion : 
 Finally, users can interact with the web app interface by inputting their own feature values to make predictions. By providing the relevant loan attributes through the app, users can receive real-time predictions on whether a loan will become delinquent (via the GBM model) and the expected prepayment rate (via the Lasso regression model). This makes the app accessible for end-users to explore predictions interactively.
+
+
+### Internship Experience Certificates
+
+![Loubna Boukayoua Data Scientist Internship Completion Certificate_page-0001](https://github.com/user-attachments/assets/e4e96f4d-4a94-46fd-a6c3-cb4e9cc26751)
+![Loubna Boukayoua Completion letter_page-0001](https://github.com/user-attachments/assets/d82abc26-daab-46db-bee6-dfe07dad2534)
+![Loubna Boukayoua Recommendation Letter_page-0001](https://github.com/user-attachments/assets/b88edba6-0206-4744-bee8-017ac0be6c07)
+
+
